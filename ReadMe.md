@@ -12,15 +12,15 @@ Below are screenshots of the application
 
 ### Screenshot of the User Interface ###
 
-![Screenshot of the User Interface](assets/passwordgenerator.png)
+![Screenshot of the User Interface](assets/passwordgenerator.PNG)
 
 ### Screenshot of the Application Javascript ###
 
-![Screenshot of the  Application Javascript](assets/jscode.png)
+![Screenshot of the  Application Javascript](assets/jscode.PNG)
 
 ### Screenshot of the Application HTML ###
 
-![Screenshot of the  Application HTML Code](assets/htmlcode.png)
+![Screenshot of the  Application HTML Code](assets/htmlcode.PNG)
 
 ## Built With ##
 
